@@ -14,7 +14,7 @@ if(You_Fork) {
 ```
 ```python
 if You_Fork == True:
-  copyright == True
+  copyright = True
   You = 'Die'
 elif You_Watch == True:
   Me_Follow_You()
