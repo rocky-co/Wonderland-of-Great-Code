@@ -12,6 +12,7 @@ if(You_Fork) {
   Me_Follow_You()
   alert('Good!')
 ```
+Python:
 ```python
 if You_Fork == True:
   copyright = True
