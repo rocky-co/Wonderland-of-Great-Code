@@ -1,4 +1,7 @@
 # Wonderland of Great Code
 #### My's Code
-### if You Fork:
-## Copyright...
+```javascript
+if(You_Fork):
+  copyright = True
+  You = Die
+```
