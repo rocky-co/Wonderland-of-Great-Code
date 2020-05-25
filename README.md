@@ -11,6 +11,7 @@ if(You_Fork) {
 } else if(You_Follow_Me){
   Me_Follow_You()
   alert('Good!')
+}
 ```
 Python:
 ```python
@@ -22,7 +23,9 @@ elif You_Watch == True:
   print('Good!')
 elif You_Follow_Me = True:
   Me_Follow_You()
+  print('Good!')
 ```
+......
 ```markdown
 ##################################################################################################################
 ```
